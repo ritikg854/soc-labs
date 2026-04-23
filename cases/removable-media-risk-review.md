@@ -28,6 +28,10 @@ In this exercise, I reviewed a scenario involving removable media usage in an en
 
 This case study helped reinforce the importance of endpoint visibility, removable media awareness, and practical risk assessment in enterprise security operations.
 
+## Analyst Takeaway
+
+This case study helped reinforce the importance of structured triage, context-based review, and clear documentation in security operations work.
+
 ## Skills Demonstrated
 
 - Endpoint risk awareness
