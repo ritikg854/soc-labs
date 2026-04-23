@@ -29,6 +29,13 @@ In this lab, I reviewed the structure and content of a suspicious email to ident
 
 This lab helped strengthen my understanding of phishing triage and the practical review steps that support SOC operations and incident response workflows.
 
+## Tools Used
+
+- macOS
+- GitHub
+- Markdown
+- Public learning resources and security documentation
+
 ## Skills Demonstrated
 
 - Email threat awareness
