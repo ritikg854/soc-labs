@@ -28,6 +28,10 @@ In this exercise, I reviewed an endpoint alert scenario to understand how an ana
 
 This case study helped improve my understanding of practical endpoint alert triage and strengthened my ability to document analyst-style review steps in a structured way.
 
+## Analyst Takeaway
+
+This case study helped reinforce the importance of structured triage, context-based review, and clear documentation in security operations work.
+
 ## Skills Demonstrated
 
 - Endpoint alert review
