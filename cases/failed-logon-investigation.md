@@ -28,6 +28,10 @@ In this exercise, I reviewed Windows log activity with a focus on failed authent
 
 This case study helped reinforce the importance of authentication monitoring, event review, and structured investigation notes in security operations work.
 
+## Analyst Takeaway
+
+This case study helped reinforce the importance of structured triage, context-based review, and clear documentation in security operations work.
+
 ## Skills Demonstrated
 
 - Security event review
