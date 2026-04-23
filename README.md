@@ -12,3 +12,11 @@
 - Log analysis and SIEM-style investigation thinking
 - Removable media monitoring awareness
 - Endpoint alert triage
+
+## What This Repository Demonstrates
+
+- Structured blue-team and SOC-focused learning
+- Practical investigation and triage thinking
+- Clear written documentation of security topics
+- Growing knowledge in endpoint, phishing, authentication, and log analysis scenarios
+- A professional focus aligned with cybersecurity analyst and security operations roles
