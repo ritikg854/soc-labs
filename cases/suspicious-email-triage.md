@@ -29,6 +29,10 @@ In this exercise, I reviewed a suspicious email that showed characteristics comm
 
 This case study helped strengthen practical phishing triage thinking and improved my ability to document suspicious email analysis in a clear and structured way.
 
+## Analyst Takeaway
+
+This case study helped reinforce the importance of structured triage, context-based review, and clear documentation in security operations work.
+
 ## Skills Demonstrated
 
 - Phishing awareness
