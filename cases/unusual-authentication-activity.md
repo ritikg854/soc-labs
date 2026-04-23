@@ -28,6 +28,10 @@ In this exercise, I reviewed authentication-focused log activity to identify sig
 
 This case study helped strengthen my understanding of authentication monitoring and improved my ability to document suspicious access patterns in an analyst-oriented way.
 
+## Analyst Takeaway
+
+This case study helped reinforce the importance of structured triage, context-based review, and clear documentation in security operations work.
+
 ## Skills Demonstrated
 
 - Authentication log review
