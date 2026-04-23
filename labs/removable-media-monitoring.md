@@ -29,6 +29,13 @@ In this lab, I explored the security relevance of removable media usage such as 
 
 This lab helped strengthen my understanding of endpoint-related security monitoring and the role of removable media awareness in supporting data protection and operational security.
 
+## Tools Used
+
+- macOS
+- GitHub
+- Markdown
+- Public learning resources and security documentation
+
 ## Skills Demonstrated
 
 - Endpoint security awareness
