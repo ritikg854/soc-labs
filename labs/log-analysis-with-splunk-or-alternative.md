@@ -29,6 +29,13 @@ In this lab, I worked with log data to understand how analysts can review events
 
 This lab helped strengthen my understanding of how log analysis supports security monitoring, triage, and investigation work in real-world SOC environments.
 
+## Tools Used
+
+- macOS
+- GitHub
+- Markdown
+- Public learning resources and security documentation
+
 ## Skills Demonstrated
 
 - Log analysis
