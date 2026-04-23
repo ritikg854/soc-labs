@@ -1,0 +1,38 @@
+# Endpoint Alert Triage Lab
+
+## Objective
+
+The objective of this lab is to practice reviewing endpoint-related alerts and understand how analysts can assess their relevance, severity, and need for further investigation.
+
+## Scenario
+
+In this lab, I explored how endpoint alerts may be reviewed during security monitoring. The goal was to understand how analysts approach initial triage, identify useful context, and decide whether activity appears benign, suspicious, or worthy of escalation.
+
+## Key Areas Reviewed
+
+- Nature of the alert
+- Endpoint context
+- User activity context
+- Severity and urgency considerations
+- Possible false positives
+- Indicators that may require deeper investigation
+
+## What I Practiced
+
+- Thinking through alert triage in a structured way
+- Assessing endpoint-related signals
+- Considering context before escalation
+- Distinguishing low-risk vs suspicious activity
+- Writing investigation-style observations clearly
+
+## Outcome
+
+This lab helped strengthen my understanding of endpoint-focused monitoring and the practical thought process used during early-stage security triage.
+
+## Skills Demonstrated
+
+- Endpoint security awareness
+- Alert triage thinking
+- Investigation structure
+- Risk assessment
+- Security operations mindset
