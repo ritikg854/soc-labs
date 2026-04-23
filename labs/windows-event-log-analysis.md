@@ -30,6 +30,13 @@ In this lab, I explored Windows event logs to understand how security-relevant a
 
 This lab helped strengthen my understanding of endpoint visibility and Windows-based investigation workflows. It also improved my ability to document findings clearly and think in a more analyst-focused way.
 
+## Tools Used
+
+- macOS
+- GitHub
+- Markdown
+- Public learning resources and security documentation
+
 ## Skills Demonstrated
 
 - Log analysis
