@@ -20,3 +20,7 @@
 - Clear written documentation of security topics
 - Growing knowledge in endpoint, phishing, authentication, and log analysis scenarios
 - A professional focus aligned with cybersecurity analyst and security operations roles
+
+## Ongoing Development
+
+This repository will continue to grow with additional SOC-focused labs, security case studies, and practical blue-team learning projects over time.
